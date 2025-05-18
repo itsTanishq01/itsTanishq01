@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 Pursuing bachelor's in information technology<br>Passionate Game Developer<br>ML Enthusiast<br>Sometimes, building Engines  
 
 
